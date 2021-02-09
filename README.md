@@ -3,6 +3,6 @@
 
 Just experimenting the properties of Github wiki.
 
-| Col A | Col B |
------------------
-| Data A1 | Data B1
+| Col A   | Col B |
+| -----   | ----- |
+| Data A1 | Data B1 |
